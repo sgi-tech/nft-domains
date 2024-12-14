@@ -35,6 +35,7 @@ nftset=/ru-board.com/4#inet#fw4#vpn_domains
 nftset=/rutracker.org/4#inet#fw4#vpn_domains
 nftset=/soundcloud.com/4#inet#fw4#vpn_domains
 nftset=/strava.com/4#inet#fw4#vpn_domains
+nftset=/t.co/4#inet#fw4#vpn_domains
 nftset=/tiktok.com/4#inet#fw4#vpn_domains
 nftset=/tiktokcdn-eu.com/4#inet#fw4#vpn_domains
 nftset=/tiktokcdn-us.com/4#inet#fw4#vpn_domains

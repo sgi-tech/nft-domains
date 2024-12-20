@@ -5,6 +5,7 @@ nftset=/ai-chat.bsg.brave.com/4#inet#fw4#vpn_domains
 nftset=/anthropic.com/4#inet#fw4#vpn_domains
 nftset=/antizapret.prostovpn.org/4#inet#fw4#vpn_domains
 nftset=/appstorrent.ru/4#inet#fw4#vpn_domains
+nftset=/autodesk.com/4#inet#fw4#vpn_domains
 nftset=/bitbucket.org/4#inet#fw4#vpn_domains
 nftset=/cdninstagram.com/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains

@@ -34,6 +34,7 @@ nftset=/protonmail.com/4#inet#fw4#vpn_domains
 nftset=/protonvpn.com/4#inet#fw4#vpn_domains
 nftset=/pump.fun/4#inet#fw4#vpn_domains
 nftset=/quicknode.com/4#inet#fw4#vpn_domains
+nftset=/reka-ui.com/4#inet#fw4#vpn_domains
 nftset=/ru-board.com/4#inet#fw4#vpn_domains
 nftset=/rutracker.cc/4#inet#fw4#vpn_domains
 nftset=/rutracker.org/4#inet#fw4#vpn_domains

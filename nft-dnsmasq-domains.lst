@@ -60,6 +60,7 @@ nftset=/tiktokd.org/4#inet#fw4#vpn_domains
 nftset=/tiktokv.com/4#inet#fw4#vpn_domains
 nftset=/tiktokv.us/4#inet#fw4#vpn_domains
 nftset=/tiktokw.us/4#inet#fw4#vpn_domains
+nftset=/trello.com/4#inet#fw4#vpn_domains
 nftset=/twimg.com/4#inet#fw4#vpn_domains
 nftset=/twitpic.com/4#inet#fw4#vpn_domains
 nftset=/twitter.com/4#inet#fw4#vpn_domains

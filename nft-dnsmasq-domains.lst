@@ -52,6 +52,7 @@ nftset=/rutracker.cc/4#inet#fw4#vpn_domains
 nftset=/rutracker.org/4#inet#fw4#vpn_domains
 nftset=/sentry.dev/4#inet#fw4#vpn_domains
 nftset=/sentry.io/4#inet#fw4#vpn_domains
+nftset=/shadcn-vue.com/4#inet#fw4#vpn_domains
 nftset=/solanatradingbots.com/4#inet#fw4#vpn_domains
 nftset=/soundcloud.com/4#inet#fw4#vpn_domains
 nftset=/strava.com/4#inet#fw4#vpn_domains

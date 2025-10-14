@@ -40,6 +40,7 @@ nftset=/medium.com/4#inet#fw4#vpn_domains
 nftset=/mobula.fi/4#inet#fw4#vpn_domains
 nftset=/mobula.io/4#inet#fw4#vpn_domains
 nftset=/mongodb.com/4#inet#fw4#vpn_domains
+nftset=/multiboard.io/4#inet#fw4#vpn_domains
 nftset=/nitro.build/4#inet#fw4#vpn_domains
 nftset=/nnmclub.to/4#inet#fw4#vpn_domains
 nftset=/nnmstatic.win/4#inet#fw4#vpn_domains

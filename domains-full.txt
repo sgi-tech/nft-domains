@@ -40,6 +40,7 @@ nnmstatic.win
 drizzle.team
 omv-extras.org
 openai.com
+openh264.org
 openwebui.com
 prismic.io
 prostovpn.org

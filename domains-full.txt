@@ -42,6 +42,7 @@ omv-extras.org
 openai.com
 openh264.org
 openwebui.com
+patreon.com
 prismic.io
 prostovpn.org
 proton.me

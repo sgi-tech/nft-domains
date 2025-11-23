@@ -59,6 +59,7 @@ sentry.dev
 sentry.io
 shadcn-vue.com
 solanatradingbots.com
+sndcdn.com
 soundcloud.com
 strava.com
 tiangolo.com

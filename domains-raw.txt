@@ -69,6 +69,7 @@ sentry.io
 shadcn-vue.com
 solanatradingbots.com
 soundcloud.com
+sndcdn.com
 strava.com
 t.co
 tiangolo.com

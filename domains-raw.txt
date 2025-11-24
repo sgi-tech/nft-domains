@@ -52,6 +52,7 @@ openai.com
 openh264.org
 openwebui.com
 patreon.com
+patreonusercontent.com
 prismic.io
 prostovpn.org
 proton.me

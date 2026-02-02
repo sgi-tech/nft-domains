@@ -1,6 +1,8 @@
 2ip.io
 4pda.ru
 4pda.to
+adguard.com
+adguard.info
 adobe.com
 adobe.io
 ai-chat.bsg.brave.com
@@ -11,11 +13,13 @@ appstorrent.ru
 astral.sh
 atlassian.com
 autodesk.com
+bblcdn.eu
 bitbucket.org
 bloombot.app
 chatgpt.com
 claude.ai
 cloudinary.com
+continue.dev
 creality.com
 crealitycloud.com
 digitalocean.com
@@ -63,12 +67,14 @@ solanatradingbots.com
 sndcdn.com
 soundcloud.com
 strava.com
+the.hosting
 tiangolo.com
 trello.com
 ufopaedia.org
 ultimaker.com
 unjs.io
 you.com
+weather.com
 supercell.com
 seeurlpcl.com
 supercellid.com

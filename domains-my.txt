@@ -13,6 +13,7 @@ appstorrent.ru
 astral.sh
 atlassian.com
 autodesk.com
+bblcdn.com
 bblcdn.eu
 bitbucket.org
 bloombot.app

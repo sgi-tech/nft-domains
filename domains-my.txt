@@ -23,6 +23,7 @@ cloudinary.com
 continue.dev
 creality.com
 crealitycloud.com
+css-tricks.com
 digitalocean.com
 drizzle.team
 fastify.dev
@@ -76,6 +77,7 @@ trello.com
 ufopaedia.org
 ultimaker.com
 unjs.io
+unsplash.com
 you.com
 weather.com
 supercell.com

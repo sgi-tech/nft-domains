@@ -17,6 +17,8 @@ bblcdn.com
 bblcdn.eu
 bitbucket.org
 bloombot.app
+caddy.community
+caddyserver.com
 chatgpt.com
 claude.ai
 cloudinary.com

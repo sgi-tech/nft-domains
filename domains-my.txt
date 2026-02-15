@@ -12,6 +12,7 @@ antizapret.prostovpn.org
 appstorrent.ru
 astral.sh
 atlassian.com
+authjs.dev
 autodesk.com
 bblcdn.com
 bblcdn.eu
@@ -43,6 +44,7 @@ mobula.fi
 mobula.io
 mongodb.com
 multiboard.io
+next-auth.js.org
 nitro.build
 nnmclub.to
 nnmstatic.win

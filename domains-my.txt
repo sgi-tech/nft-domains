@@ -68,6 +68,7 @@ rutracker.cc
 rutracker.org
 sentry.dev
 sentry.io
+shadcn.com
 shadcn-vue.com
 solanatradingbots.com
 sndcdn.com

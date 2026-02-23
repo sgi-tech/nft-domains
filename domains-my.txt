@@ -39,6 +39,7 @@ hono.dev
 ik-tokapi.com
 intel.com
 kolscan.io
+lastpass.com
 medium.com
 mobula.fi
 mobula.io

@@ -49,6 +49,7 @@ next-auth.js.org
 nitro.build
 nnmclub.to
 nnmstatic.win
+oaistatic.com
 omv-extras.org
 openai.com
 openh264.org
